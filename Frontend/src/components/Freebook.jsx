@@ -22,7 +22,7 @@ function Freebook() {
       }
       getBook();
   },[]);
-
+//React Slider Settings
   var settings = {
     dots: true,
     infinite: false,
